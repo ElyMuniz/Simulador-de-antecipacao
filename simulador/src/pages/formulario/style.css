@@ -4,7 +4,6 @@
     align-items:flex-start;
     background:white;
     gap: 10px;
-    border-radius: 3%;
     padding-top: 50px;
     padding-bottom: 20px;   
     padding-left: 2rem;
@@ -34,4 +33,15 @@ span{
 input:hover{
     height: 30px;
     border-color: #6ea6ed;
+}
+button{
+    background-color:hsl(212, 47%, 59%);
+    border: none;
+    border-radius: 3px;
+    margin-left: 35%;
+}
+
+button:hover{
+    background-color:#6ea6ed;
+    cursor: pointer;
 }

@@ -1,14 +1,20 @@
 .App {
   text-align: center; 
+  background-color:#f5f7fa;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content:center;
 }
 
 section{
-  background-color:#f5f7fa;
   display: flex;
   flex-direction:row;
   align-items: center;
   justify-content:center; 
   left: 5rem;
-  border: 2px;
+  border: solid 2px #DEE5EB;
+  border-radius: 5px;
+  width: 40%;
  }
 

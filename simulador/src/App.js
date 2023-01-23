@@ -8,12 +8,12 @@ function App() {
   const [dadosApi, setDadosApi] = useState([])
 
   return (
-    <>
+    <div className='App'>
       <section>
         <FormularioSimulador setDadosApi={setDadosApi}/>
         <Recebera dadosApi={dadosApi}/>
       </section>
-    </>
+    </div>
   );
 }
 
