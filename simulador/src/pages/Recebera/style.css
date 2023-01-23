@@ -1,0 +1,16 @@
+.recebera{
+text-align: center;
+margin-left: 2rem;
+display: flex;
+flex-direction:column;
+align-items:flex-start;
+justify-content:center;
+}
+
+h1{
+color: #6e98cb;
+}
+
+p{
+color:#6ea6ed;
+}

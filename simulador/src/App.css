@@ -1,0 +1,14 @@
+.App {
+  text-align: center; 
+}
+
+section{
+  background-color:#f5f7fa;
+  display: flex;
+  flex-direction:row;
+  align-items: center;
+  justify-content:center; 
+  left: 5rem;
+  border: 2px;
+ }
+
